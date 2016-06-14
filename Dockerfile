@@ -24,6 +24,7 @@ ADD root/.scripts /root/.scripts
 
 # Set environment variables.
 ENV HOME /root
+
 # Define working directory.
 WORKDIR /root
 
