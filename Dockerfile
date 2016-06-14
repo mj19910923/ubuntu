@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM ubuntu:14.04
+FROM registry.aliyuncs.com/hds/ubuntu:14.04
 
 # Install.
 RUN \
